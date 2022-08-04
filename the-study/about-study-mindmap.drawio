@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-04T16:06:58.238Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.141 Safari/537.36" etag="6vHKGZpy9e6duQUKVhOj" version="20.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-04T16:24:35.218Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.141 Safari/537.36" etag="PJmwiLtI6nUV-FO6crkZ" version="20.2.2" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="1246" dy="568" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -101,7 +101,7 @@
             <mxPoint x="558" y="205" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aCv0Oe6WVhiPaZeMM8eK-1870" value="查找答案" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};hachureGap=4;" vertex="1" parent="aCv0Oe6WVhiPaZeMM8eK-1814">
+        <mxCell id="aCv0Oe6WVhiPaZeMM8eK-1870" value="重述答案" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};hachureGap=4;" vertex="1" parent="aCv0Oe6WVhiPaZeMM8eK-1814">
           <mxGeometry x="580" y="230" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="aCv0Oe6WVhiPaZeMM8eK-1877" value="" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};hachureGap=4;labelBackgroundColor=none;labelBorderColor=none;fontFamily=Verdana;fontSize=14;fontColor=#4D4D4D;fillColor=#99CCFF;opacity=20;connectable=0;allowArrows=0;" vertex="1" parent="aCv0Oe6WVhiPaZeMM8eK-1814">
@@ -121,7 +121,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="aCv0Oe6WVhiPaZeMM8eK-1883" value="人脑" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};hachureGap=4;" vertex="1" parent="aCv0Oe6WVhiPaZeMM8eK-1814">
-          <mxGeometry x="480" y="320" width="70" height="30" as="geometry" />
+          <mxGeometry x="480" y="355" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="aCv0Oe6WVhiPaZeMM8eK-1905" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" target="aCv0Oe6WVhiPaZeMM8eK-1906" source="aCv0Oe6WVhiPaZeMM8eK-1821" parent="aCv0Oe6WVhiPaZeMM8eK-1814">
           <mxGeometry relative="1" as="geometry">
@@ -130,6 +130,78 @@
         </mxCell>
         <mxCell id="aCv0Oe6WVhiPaZeMM8eK-1906" value="动力" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};hachureGap=4;" vertex="1" parent="aCv0Oe6WVhiPaZeMM8eK-1814">
           <mxGeometry x="480" y="450" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aCv0Oe6WVhiPaZeMM8eK-1907" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" target="aCv0Oe6WVhiPaZeMM8eK-1908" source="aCv0Oe6WVhiPaZeMM8eK-1883" parent="aCv0Oe6WVhiPaZeMM8eK-1814">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="423" y="435" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aCv0Oe6WVhiPaZeMM8eK-1908" value="明确问题和答案" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};hachureGap=4;" vertex="1" parent="aCv0Oe6WVhiPaZeMM8eK-1814">
+          <mxGeometry x="590" y="320" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aCv0Oe6WVhiPaZeMM8eK-1909" value="NEW" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};rounded=1;shadow=0;glass=0;labelBackgroundColor=none;labelBorderColor=none;sketch=0;hachureGap=4;fillStyle=auto;fontFamily=Verdana;fontSize=14;fontColor=#4D4D4D;strokeColor=default;opacity=20;" vertex="1" parent="aCv0Oe6WVhiPaZeMM8eK-1814">
+          <mxGeometry x="745" y="120" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aCv0Oe6WVhiPaZeMM8eK-1910" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;fontFamily=Verdana;fontSize=14;fontColor=#4D4D4D;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" target="aCv0Oe6WVhiPaZeMM8eK-1909" parent="aCv0Oe6WVhiPaZeMM8eK-1814" source="aCv0Oe6WVhiPaZeMM8eK-1852">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="660" y="160" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aCv0Oe6WVhiPaZeMM8eK-1911" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px;&quot;&gt;通过例子找出问题和答案的规律&lt;/span&gt;" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};rounded=1;shadow=0;glass=0;labelBackgroundColor=none;labelBorderColor=none;sketch=0;hachureGap=4;fillStyle=auto;fontFamily=Verdana;fontSize=14;fontColor=#4D4D4D;strokeColor=default;opacity=20;" vertex="1" parent="aCv0Oe6WVhiPaZeMM8eK-1814">
+          <mxGeometry x="480" y="260" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aCv0Oe6WVhiPaZeMM8eK-1912" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;fontFamily=Verdana;fontSize=14;fontColor=#4D4D4D;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" target="aCv0Oe6WVhiPaZeMM8eK-1911" parent="aCv0Oe6WVhiPaZeMM8eK-1814" source="aCv0Oe6WVhiPaZeMM8eK-1818">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="170" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aCv0Oe6WVhiPaZeMM8eK-1917" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" target="aCv0Oe6WVhiPaZeMM8eK-1918" source="aCv0Oe6WVhiPaZeMM8eK-1883" parent="aCv0Oe6WVhiPaZeMM8eK-1814">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="558" y="370" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aCv0Oe6WVhiPaZeMM8eK-1918" value="用例子构建知识" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};hachureGap=4;" vertex="1" parent="aCv0Oe6WVhiPaZeMM8eK-1814">
+          <mxGeometry x="590" y="360" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aCv0Oe6WVhiPaZeMM8eK-1919" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" target="aCv0Oe6WVhiPaZeMM8eK-1920" source="aCv0Oe6WVhiPaZeMM8eK-1883" parent="aCv0Oe6WVhiPaZeMM8eK-1814">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="558" y="370" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aCv0Oe6WVhiPaZeMM8eK-1920" value="验证知识的有效性" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};hachureGap=4;" vertex="1" parent="aCv0Oe6WVhiPaZeMM8eK-1814">
+          <mxGeometry x="590" y="398.5" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aCv0Oe6WVhiPaZeMM8eK-1929" value="NOT" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};rounded=1;shadow=0;glass=0;labelBackgroundColor=none;labelBorderColor=none;sketch=0;hachureGap=4;fillStyle=auto;fontFamily=Verdana;fontSize=14;fontColor=#4D4D4D;strokeColor=default;opacity=20;" vertex="1" parent="aCv0Oe6WVhiPaZeMM8eK-1814">
+          <mxGeometry x="605" y="430" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aCv0Oe6WVhiPaZeMM8eK-1930" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;fontFamily=Verdana;fontSize=14;fontColor=#4D4D4D;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" target="aCv0Oe6WVhiPaZeMM8eK-1929" parent="aCv0Oe6WVhiPaZeMM8eK-1814" source="aCv0Oe6WVhiPaZeMM8eK-1883">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="620" y="510" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aCv0Oe6WVhiPaZeMM8eK-1931" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;fontFamily=Verdana;fontSize=14;fontColor=#4D4D4D;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" target="aCv0Oe6WVhiPaZeMM8eK-1932" source="aCv0Oe6WVhiPaZeMM8eK-1929" parent="aCv0Oe6WVhiPaZeMM8eK-1814">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="532.5" y="385" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aCv0Oe6WVhiPaZeMM8eK-1932" value="记忆知识的描述&lt;br&gt;知识 NOT 信息&lt;br&gt;学习 NOT 记忆" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};rounded=1;shadow=0;glass=0;labelBackgroundColor=none;labelBorderColor=none;sketch=0;hachureGap=4;fillStyle=auto;fontFamily=Verdana;fontSize=14;fontColor=#4D4D4D;strokeColor=default;opacity=20;" vertex="1" parent="aCv0Oe6WVhiPaZeMM8eK-1814">
+          <mxGeometry x="745" y="398.5" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aCv0Oe6WVhiPaZeMM8eK-1937" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;fontFamily=Verdana;fontSize=14;fontColor=#4D4D4D;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" target="aCv0Oe6WVhiPaZeMM8eK-1938" source="aCv0Oe6WVhiPaZeMM8eK-1932" parent="aCv0Oe6WVhiPaZeMM8eK-1814">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="657.5" y="460" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aCv0Oe6WVhiPaZeMM8eK-1938" value="知识的描述引导学习" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};rounded=1;shadow=0;glass=0;labelBackgroundColor=none;labelBorderColor=none;sketch=0;hachureGap=4;fillStyle=auto;fontFamily=Verdana;fontSize=14;fontColor=#4D4D4D;strokeColor=default;opacity=20;" vertex="1" parent="aCv0Oe6WVhiPaZeMM8eK-1814">
+          <mxGeometry x="910" y="428.5" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aCv0Oe6WVhiPaZeMM8eK-1939" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;fontFamily=Verdana;fontSize=14;fontColor=#4D4D4D;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" target="aCv0Oe6WVhiPaZeMM8eK-1940" source="aCv0Oe6WVhiPaZeMM8eK-1932" parent="aCv0Oe6WVhiPaZeMM8eK-1814">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="850" y="458.5" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aCv0Oe6WVhiPaZeMM8eK-1940" value="听懂知识不等于学会" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};rounded=1;shadow=0;glass=0;labelBackgroundColor=none;labelBorderColor=none;sketch=0;hachureGap=4;fillStyle=auto;fontFamily=Verdana;fontSize=14;fontColor=#4D4D4D;strokeColor=default;opacity=20;" vertex="1" parent="aCv0Oe6WVhiPaZeMM8eK-1814">
+          <mxGeometry x="910" y="388.5" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="aCv0Oe6WVhiPaZeMM8eK-1837" value="Title" style="locked=1;" parent="0" visible="0" />
         <mxCell id="aCv0Oe6WVhiPaZeMM8eK-1838" value="&lt;br&gt;重构『学习』" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=default;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;hachureGap=4;fontStyle=1;fontSize=30;labelBorderColor=none;verticalAlign=top;" vertex="1" parent="aCv0Oe6WVhiPaZeMM8eK-1837">
