@@ -1,0 +1,53 @@
+# ChatGPT Prompt Engineering for Developers
+
+
+
+Principles:
+1. Write clear and specific instructions
+---- Use delimiters (""", ''', ---, <>, <tag>)
+---- Ask for structured output (html, json...)
+---- Check conditions
+---- Give successful examples
+2. Give the model time to think
+---- Specify the steps to complete a task
+---- Instruct the model to work out its own solution before rushing to a conclusion
+####
+Iterative prompt development
+ ==> Idea ==> Impl(code/data) ==> Experimental result ==> Error analysis
+~~~~  Prompt guidelines, Analyze, Refine, Repeat the cycle
+####
+Capabilities：
+---- Summarizing: length limit / topic focus / extract info / workflow (aggregate)
+---- Inferring: extracting label(name, etc) / sentiment / structured output (JSON with multi-info) / extract topics from large text / topics cover detect / +舆情
+---- Transforming: translating(translate / recognise / forms<formal, bussiness, English pirate>  ) / grammar correction / format (json to html, etc) / proofread
+---- Expanding: expand (write email according the customer's review sentiment, essay, +情绪训练), temperature
+####
+Building a chatbot
+-- Order taker for restaurant
+-- chat-context: message list
+-- task / collect info / condition / menu ...
+
+
+-------- Lectures 
+
+1、Introduction
+
+`Base LLM`: Predicts next word, based on text training data
+
+`Instruction Tuned LLM`: Tries to follow instructions
+
+2、Guidelines for Prompting
+
+-- Two Principles
+
+-- Model Limitations: 
+
+Reducing Hallucinations:
+
+Find relevant information / quotes, then use those quotes to answer
+
+3、Interative Prompt Development
+
+4、Summarizing
+
+5、
